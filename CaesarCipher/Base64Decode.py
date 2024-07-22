@@ -19,7 +19,7 @@ def decode_base64(encoded_text):
         return f"Error decoding Base64: {e}"
 
 # Example usage
-encoded_text = "xqkwKBN{z0bib1wv_l3kzgxb3l_949in1i1}"
+encoded_text = "d3BqdkpBTXtqaGx6aHlfazNqeTl3YTNrXzc4MjUwaG1qfQ=="
 decoded_text = decode_base64(encoded_text)
 
 print("Encoded:", encoded_text)
