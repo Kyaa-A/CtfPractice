@@ -24,7 +24,7 @@ def caesar_cipher_decrypt(ciphertext, shift):
     return caesar_cipher_encrypt(ciphertext, -shift)
 
 # Example usage:
-ciphertext = "wpjvJAM{jhlzhy_k3jy9wa3k_78250hmj}"
+ciphertext = "cvpbPGS{P7e1S_54I35_71Z3}"
 
 # Try all possible shifts from 1 to 26
 for shift in range(1, 27):
