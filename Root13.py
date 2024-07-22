@@ -1,6 +1,6 @@
 import codecs
 
-plaintext = "Middle"
+plaintext = "xqkwKBN{z0bib1wv_l3kzgxb3l_949in1i1}"
 encoded_string = codecs.encode(plaintext, 'rot_13')
 print("Encoded: " + encoded_string)
 # 'sbbone'
