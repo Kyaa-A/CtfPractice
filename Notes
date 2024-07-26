@@ -1,0 +1,32 @@
+**Bases**
+
+Base32 - CAPITAL LETTER
+Base64 - ALphanumeric with + / symbols in it
+Base85 (Ascii85) - Weird unreadable
+
+Cryptii | Dcode.fr
+
+
+**Number System**
+
+Base 2 - Binary
+Base 8 - Octal
+Base 10 - Decimal
+Base 16 - Hex
+
+$ man ascii
+
+
+**Rotation Cipher**
+
+>> Root13.py
+
+**Caesar CIpher**
+
+>> CaesarCipher
+
+**Morse Code**
+
+>> MorseCode
+
+
