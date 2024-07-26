@@ -10,7 +10,7 @@ def base64_to_hex(base64_string):
     return hex_string.decode('utf-8')
 
 # Input Base64 string
-base64_string = "SSdtIGtpbGxpbmcgeW91ciBicmFpbiBsaWtlIGEgcG9pc29ub3VzIG11c2hyb29t"
+base64_string = "fbf9eefce1f2f5eaffc5e3f5efc5efe9fffec5fbc5e9f9e8f3eaeee7"
 
 # Convert and print the hexadecimal result
 hex_string = base64_to_hex(base64_string)

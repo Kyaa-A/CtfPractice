@@ -24,8 +24,8 @@ def single_byte_xor_cipher(message, key_char):
     return ''.join(chr(ord(char) ^ key) for char in message)
 
 # Example usage
-message = "Hello"
-key_char = 's'
+message = "fbf9eefce1f2f5eaffc5e3f5efc5efe9fffec5fbc5e9f9e8f3eaeee7"
+key_char = ' '
 encrypted = single_byte_xor_cipher(message, key_char)
 decrypted = single_byte_xor_cipher(encrypted, key_char)
 
