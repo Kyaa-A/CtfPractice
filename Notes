@@ -18,15 +18,24 @@ $ man ascii
 
 
 **Rotation Cipher**
-
 >> Root13.py
 
-**Caesar CIpher**
 
+**Caesar CIpher**
 >> CaesarCipher
 
-**Morse Code**
 
+**Morse Code**
 >> MorseCode
 
+
+** Tap Code **
+>> TapCode
+
+
+** DNA Code **
+https://dnaencoder-1-x0198460.deta.app/
+
+
+** XOR(Requires KEY) **
 
