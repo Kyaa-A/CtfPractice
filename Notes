@@ -1,3 +1,5 @@
+https://github.com/JohnHammond/ctf-katana
+
 **Bases**
 
 Base32 - CAPITAL LETTER
@@ -38,4 +40,31 @@ https://dnaencoder-1-x0198460.deta.app/
 
 
 ** XOR(Requires KEY) **
+>> XOR
 
+
+** Substitution Cipher **
+https://quipquip.com
+
+
+** Transposition Cipher **
+https://tholman.com/other/transposition/
+
+
+** Vigenere Cipher **
+>>VigenereCipher
+
+
+** Esoteric Language **
+>> LOTS
+
+** RSA **
+(public key for reciever)------(public, private)
+
+-p
+-q
+-modulus(n):  n = p*q
+- q = n/p
+-exponent(e): e = 0x10001 or 65535
+-n, e = public key
+-ciphertext(c)
