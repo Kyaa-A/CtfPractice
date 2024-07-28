@@ -1,0 +1,59 @@
+Search picoCTF challenges
+watch martin carlisle
+
+SOLVING:
+BASE64/CAESAR - https://dcode.fr/caesar-cipher
+TRANSPOSITION - https://tholman.com/other/transposition
+
+Morse Code - https://www.dcode.fr/morse-code / (audio) https://morsecode.world/international/decoder/audio-decoder-adaptive.html
+Tap Code
+DNA Code
+XOR (Require Key)
+Substitution Cipher (Require Key)
+Transposition Cipher (Require Key)
+Vigenere Cipher (Require Key)
+Esoteric Language
+
+COMMANDS
+
+base64 -d (filename)
+echo (paste) | rev   ::: This command reverse string
+file (filename)
+string (filename)
+ltrace ./(filename)  ::: if elf file
+gdb(peda)
+ghidra
+radare2
+
+chmod +x filename : to make it executable
+./filename
+
+
+rm -rf (filename) :DELETE DIRECTORY
+wget -mpEk (link) :FOR LOCALIZING WEBSITE
+
+CAESAR CIPHER
+base64 -d (filename)
+base64decode.org
+https://dcode.fr/caesar-cipher
+
+RSA
+Get c, n , e
+factordb.com
+
+Custom Decryption
+replit.com/@PacalnaAsnari/customdecryption-solution
+
+CSR FILE DECODER
+https://www.sslshopper.com/csr-decoder.html
+
+IMAGE DECODER
+string (filename) | more
+file (filename)
+steghide extract -sf (filename)
+cat (filename)
+cyberchef.org -> Atbash Cipher
+
+TOOLS
+https://dcode.fr - GETTER OF PICOCTF
+cyberchef.org - DECODER
